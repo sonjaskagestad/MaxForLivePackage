@@ -10,3 +10,12 @@ Sampler.amxd
 FMSynth.amxd
 
 SuperSaw.amxd
+
+Audio Effects
+------------
+Reverb.amxd
+FabFilter.amxd
+
+Midi Effects
+------------
+StepSequencer.amxd
